@@ -1,0 +1,3 @@
+<variable-currentdate inc-type="0" inc-value="0" name="date_of_today" order="1" pattern="MM/dd/yyyy" policy="1" range="2" uid="12559b47-306e-4714-abce-f62030226b03" whenOutOfValues="CYCLE_VALUES">
+<description>01/14/2014</description>
+</variable-currentdate>

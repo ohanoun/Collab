@@ -1,0 +1,4 @@
+<variable-list name="myPet" offset="1" order="3" policy="3" range="1" uid="d32cfc87-c949-4d24-adbd-366b70a43b2a" whenOutOfValues="CYCLE_VALUES">
+<column name="value" number="0"/>
+<values><![CDATA[rO0ABXVyABRbW0xqYXZhLmxhbmcuU3RyaW5nOzJNCa2EMuRXAgAAeHAAAAADdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQABERPR1N1cQB+AAIAAAABdAAEQ0FUU3VxAH4AAgAAAAF0AARGSVNI]]></values>
+</variable-list>

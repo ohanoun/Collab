@@ -1,0 +1,7 @@
+<http-server
+    hostname="metadata-static-files.sfo2.cdn.digitaloceanspaces.com"
+    port="443" ssl="true"
+    uid="metadata-static-files.sfo2.cdn.digitaloceanspaces.com"
+    urlrewriting-argument-name="" urlrewriting-enabled="false"
+    urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

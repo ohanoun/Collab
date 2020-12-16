@@ -1,0 +1,1 @@
+<variable-random-string max-lenght="30" min-lenght="10" name="imported_my_description" order="1" policy="5" random-seed="false" range="2" uid="0aa29694-d7fc-46f1-8db6-3649440fd030" whenOutOfValues="CYCLE_VALUES"/>

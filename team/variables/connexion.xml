@@ -1,0 +1,5 @@
+<variable-list name="connexion" offset="1" order="3" policy="3" range="1" uid="98752938-2ebd-442a-b6a1-58f03633cdbd" whenOutOfValues="CYCLE_VALUES">
+<column name="login" number="0"/>
+<column name="pass" number="1"/>
+<values><![CDATA[rO0ABXVyABRbW0xqYXZhLmxhbmcuU3RyaW5nOzJNCa2EMuRXAgAAeHAAAAADdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAAHEAfgAEdXEAfgACAAAAAnEAfgAEcQB+AAR1cQB+AAIAAAACcQB+AARxAH4ABA==]]></values>
+</variable-list>

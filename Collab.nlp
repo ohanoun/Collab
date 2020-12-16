@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=Collab
+project.version=8.2
+project.original.version=8.2
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=7.7.0
+project.id=73e13730-d303-4ab9-9c5c-37b6829ccecf
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=ohanoun/collab

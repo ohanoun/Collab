@@ -1,0 +1,5 @@
+<variable-list name="imported_NL-stopPolling" offset="1" order="1" policy="4" range="2" uid="de921ea7-51e1-4201-9fe6-49d95e1b6373" whenOutOfValues="CYCLE_VALUES">
+<description>Variable utilisée pour arrêter les requêtes de polling</description>
+<column name="value" number="0"/>
+<values><![CDATA[rO0ABXVyABRbW0xqYXZhLmxhbmcuU3RyaW5nOzJNCa2EMuRXAgAAeHAAAAACdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQABWZhbHNldXEAfgACAAAAAXQABHRydWU=]]></values>
+</variable-list>

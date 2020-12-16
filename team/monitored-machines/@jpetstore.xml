@@ -1,0 +1,6 @@
+<monitored-host enabled="false" host-name="54.152.59.201"
+    mehost-name="localhost" uid="Jpetstore">
+    <embedded-action>883560f2-5e12-4406-9c93-4367e68ceaed</embedded-action>
+    <embedded-action>96f33149-8933-414d-b058-bc862ec5793f</embedded-action>
+    <embedded-action>c8b491f3-c201-49aa-ab82-b9eede2d06da</embedded-action>
+</monitored-host>

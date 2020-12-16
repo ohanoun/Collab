@@ -1,0 +1,4 @@
+<variable-javascript name="JSTimestamp" offset="1" order="3" policy="3" range="2" uid="1de7a857-3760-42c6-b986-aaca4f125cf3" whenOutOfValues="CYCLE_VALUES">
+<column name="col_0" number="0"/>
+<script filename="scripts/jsVariable_90a11d1e-7de0-482e-b275-2dda9ff46590.js" name="JSTimestamp" ts="1572470824256" uid="90a11d1e-7de0-482e-b275-2dda9ff46590"/>
+</variable-javascript>

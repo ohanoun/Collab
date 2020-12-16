@@ -1,0 +1,4 @@
+<http-server hostname="match.prod.bidr.io" port="443" ssl="true"
+    uid="match.prod.bidr.io" urlrewriting-argument-name=""
+    urlrewriting-enabled="false" urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>
