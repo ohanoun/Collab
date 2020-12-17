@@ -1,0 +1,6 @@
+<lg-host citrixSupport="false"
+    hostname="itbackup01.intranet.neotys.com:7100" loadWeight="1"
+    sapSupport="false" standalone="false" supportWANEmulation="false"
+    uid="c5e9218d-f858-4f33-9a8c-9b590bd99a3c" version="5.4.0;build=20170210-13">
+    <!--****** LG NETWORK INTERFACES ******-->
+</lg-host>

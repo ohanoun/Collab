@@ -1,0 +1,5 @@
+<lg-host citrixSupport="false" hostname="abitbol:7100" loadWeight="1"
+    sapSupport="false" standalone="false" supportWANEmulation="false"
+    uid="bcb1e132-b150-4606-a8be-0240ed3c4c39" version="7.6.0;build=20200928-41">
+    <!--****** LG NETWORK INTERFACES ******-->
+</lg-host>

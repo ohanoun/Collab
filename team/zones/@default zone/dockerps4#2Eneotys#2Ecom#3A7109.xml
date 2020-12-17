@@ -1,0 +1,21 @@
+<lg-host citrixSupport="false" hostname="dockerps4.neotys.com:7109"
+    loadWeight="1" sapSupport="false" standalone="true"
+    supportWANEmulation="false"
+    uid="5c5d6b55-a944-41ce-9a77-3de9f6830bac" version="7.0.2;build=20190924-58">
+    <!--****** LG NETWORK INTERFACES ******-->
+    <lg-networkiface description="lo" enabled="false" isLoopBack="true" name="lo">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="localhost">
+            <ip value="127.0.0.1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="eth0" enabled="false"
+        isLoopBack="false" name="eth0">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fca56c4d4b13">
+            <ip value="172.17.0.9"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+</lg-host>

@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=TEST_COLLAB
+project.version=8.2
+project.original.version=8.2
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=7.7.0
+project.id=6d60a3ab-b8e6-4adb-a1c7-49ae9e611572
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=ohanoun/collab

@@ -1,0 +1,37 @@
+<me-host citrixSupport="false" loadWeight="1" sapSupport="false"
+    standalone="false" supportWANEmulation="false" uid="Citrix_Win7_32B" version="7.1.0 alpha;build=20190905-129">
+    <!--****** LG NETWORK INTERFACES ******-->
+    <lg-networkiface description="Software Loopback Interface 1"
+        enabled="false" isLoopBack="true" name="lo">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="127.0.0.1">
+            <ip value="127.0.0.1"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="0:0:0:0:0:0:0:1">
+            <ip value="0:0:0:0:0:0:0:1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Connexion réseau Intel(R) PRO/1000 MT"
+        enabled="false" isLoopBack="false" name="eth3">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="10.0.4.25">
+            <ip value="10.0.4.25"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:e467:6a80:4352:eb0a%eth3">
+            <ip value="fe80:0:0:0:e467:6a80:4352:eb0a%eth3"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="TAP-Windows Adapter V9"
+        enabled="false" isLoopBack="false" name="eth9">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="citrix_win7_32b">
+            <ip value="10.8.0.42"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:909d:b4b5:6068:766c%eth9">
+            <ip value="fe80:0:0:0:909d:b4b5:6068:766c%eth9"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+</me-host>
